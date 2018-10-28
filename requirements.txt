@@ -1,0 +1,10 @@
+discord
+discord.py
+youtube_dl
+PyNaCl
+requests
+Pillow
+Image
+
+
+
